@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: VictoryPopUp
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 870bdb5067f70f842b90a00d8fa85208, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 87cb0b609b91f904a9b4031cf2398f9c, type: 3}
+  - {fileID: 21300000, guid: de06e5211a509df48a9a6ff55e67c73e, type: 3}
+  - {fileID: 21300000, guid: 5ebe8dc1a59a27a479feda1949d8fbaa, type: 3}
+  - {fileID: 21300000, guid: 4b9ba8d14efe033489c6c6280d02ccd2, type: 3}
+  - {fileID: 21300000, guid: ecf50a536196491469384b2a2f0bcb1d, type: 3}
+  - {fileID: 21300000, guid: d7bf69841fb7e5d498ee56a1ab3e6f43, type: 3}
+  - {fileID: 21300000, guid: 41c86265b67f53545a6a24ca49ba1e9d, type: 3}
+  - {fileID: 21300000, guid: 4ea573a6f4120a64cac7f289677c1d48, type: 3}
+  - {fileID: 21300000, guid: 388e2db6694d52a42a79e49bd90320eb, type: 3}
+  - {fileID: 21300000, guid: 9b3933b7407fcd0479a45a6b1766d98f, type: 3}
+  - {fileID: 21300000, guid: 8eb5e9f754b798d4dad5151c663e54ce, type: 3}
+  - {fileID: 21300000, guid: 1820315aac0a3d147a8055ab814e6236, type: 3}
+  - {fileID: 21300000, guid: 716f11aa99016af42a82bbeb5c337ef1, type: 3}
+  - {fileID: 21300000, guid: 47217bbb5e5919c43adfb479a8722e66, type: 3}
+  - {fileID: 21300000, guid: 369f5f2efd9209144870f81a540fc0f0, type: 3}
+  - {fileID: 21300000, guid: 692ec36ea88f0ea49a3fb326369f0435, type: 3}
+  - {fileID: 21300000, guid: 5fd2afbe6a720784caea57a172cb99e0, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - LineBeige
+  - coin
+  - PvP copy
+  - headerSlice
+  - Button_Blue
+  - Shadow
+  - Back32
+  - FrameBeige
+  - GradientYellow
+  - Superboost
+  - Button_Green
+  - GradientYellowLight
+  - glow
+  - FrameBlue
+  - Bet boost
+  - GradientBlue
+  - Gradient
+  m_RenderDataMap: {}
+  m_Tag: VictoryPopUp
+  m_IsVariant: 0
